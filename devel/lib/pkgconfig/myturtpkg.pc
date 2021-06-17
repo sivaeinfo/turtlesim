@@ -1,0 +1,8 @@
+prefix=/home/ialab/turtle_ws/devel
+
+Name: myturtpkg
+Description: Description of myturtpkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
